@@ -1,3 +1,4 @@
+[hang-outs.git]: url "https://github.com/rodloboz/hang-outs.git"
 # hang-outs mock app
 
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
